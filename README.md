@@ -1,1 +1,13 @@
-# Albion_Op-EvCodes_Checker
+<div align="center">
+
+# Albion Online
+# Operation / Event Codes Checker
+
+</div>
+
+После апдейтов игры Словарь Operation / Event Codes может меняться, из-за чего раньше я пользовался данной софтиной чтобы найти новые коды.
+Ныне есть метод куда проще, но данная тулза также остаётся отличным инструментом отладки, чтобы понимать какие именно пакеты ходят в тот или иной момент времени.
+
+# Наш Discord
+
+- Link https://discord.gg/8byNr7TDma
